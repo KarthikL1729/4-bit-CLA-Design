@@ -1,2 +1,10 @@
 # 4-bit-CLA-Design
-VLSI Design course final project. Complete design of a 4-bit carry look ahead adder from HDL to Layout.
+
+VLSI Design course final project. 
+Complete design of a 4-bit carry look ahead adder at three levels:
+
+- Hardware description (Verilog HDL)
+- Transistor level netlist (ngspice)
+- Layout design (MAGIC)
+
+---
